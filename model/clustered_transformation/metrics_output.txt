@@ -1,0 +1,83 @@
+
+Validation Accuracy: 0.9250
+Validation MCC: 0.9198
+
+Class: Bradykinin-potentiating peptide family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Conotoxin A superfamily
+  Precision: 0.3333
+  Recall: 1.0000
+  F1-score: 0.5000
+
+Class: Conotoxin M superfamily
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Conotoxin O1 superfamily
+  Precision: 1.0000
+  Recall: 0.6667
+  F1-score: 0.8000
+
+Class: Conotoxin O2 superfamily
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Latarcin, Cytoinsectotoxin family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Long scorpion toxin superfamily
+  Precision: 0.8889
+  Recall: 1.0000
+  F1-score: 0.9412
+
+Class: Natriuretic peptide family
+  Precision: 1.0000
+  Recall: 0.3333
+  F1-score: 0.5000
+
+Class: Neurotoxin 14 (magi-1) family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Phospholipase A2 family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Scoloptoxin-16 family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Short scorpion toxin superfamily
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Snaclec family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Snake three-finger toxin family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Venom Kunitz-type family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Venom metalloproteinase (M12B) family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000

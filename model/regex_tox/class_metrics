@@ -1,0 +1,79 @@
+Class: antimicrobial_peptide
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: bradykinin_related
+  Precision: 0.7778
+  Recall: 0.8750
+  F1-score: 0.8235
+
+Class: cationic_peptide
+  Precision: 0.6667
+  Recall: 0.8000
+  F1-score: 0.7273
+
+Class: conotoxin
+  Precision: 0.8667
+  Recall: 0.8125
+  F1-score: 0.8387
+
+Class: mcd_related
+  Precision: 0.6667
+  Recall: 0.8571
+  F1-score: 0.7500
+
+Class: metalloproteinase
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: neurotoxin
+  Precision: 0.8333
+  Recall: 0.9259
+  F1-score: 0.8772
+
+Class: nontox
+  Precision: 0.9978
+  Recall: 0.9947
+  F1-score: 0.9963
+
+Class: other toxins
+  Precision: 1.0000
+  Recall: 0.8750
+  F1-score: 0.9333
+
+Class: phospholipase_a2
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: scoloptoxin
+  Precision: 0.5833
+  Recall: 0.5833
+  F1-score: 0.5833
+
+Class: scorpion_ktx
+  Precision: 0.6000
+  Recall: 0.9000
+  F1-score: 0.7200
+
+Class: scorpion_long_toxin
+  Precision: 0.9091
+  Recall: 1.0000
+  F1-score: 0.9524
+
+Class: scorpion_short_toxin
+  Precision: 0.0000
+  Recall: 0.0000
+  F1-score: 0.0000
+
+Class: three_finger_toxin
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: venom_kunitz
+  Precision: 0.6667
+  Recall: 1.0000
+  F1-score: 0.8000

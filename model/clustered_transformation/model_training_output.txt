@@ -1,0 +1,149 @@
+Train size: 183
+weights: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+class counts: [13  4  4 15  7  4 36 12  8  6  6 17  7 26 12  6]
+Epoch [10/100] | Train Loss: 0.5410 | Validation Loss: 0.6587
+Epoch [20/100] | Train Loss: 0.0884 | Validation Loss: 0.3599
+Early stopping at epoch 28
+
+Validation Accuracy: 0.9250
+Validation MCC: 0.9198
+
+Class: Bradykinin-potentiating peptide family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Conotoxin A superfamily
+  Precision: 0.3333
+  Recall: 1.0000
+  F1-score: 0.5000
+
+Class: Conotoxin M superfamily
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Conotoxin O1 superfamily
+  Precision: 1.0000
+  Recall: 0.6667
+  F1-score: 0.8000
+
+Class: Conotoxin O2 superfamily
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Latarcin, Cytoinsectotoxin family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Long scorpion toxin superfamily
+  Precision: 0.8889
+  Recall: 1.0000
+  F1-score: 0.9412
+
+Class: Natriuretic peptide family
+  Precision: 1.0000
+  Recall: 0.3333
+  F1-score: 0.5000
+
+Class: Neurotoxin 14 (magi-1) family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Phospholipase A2 family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Scoloptoxin-16 family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Short scorpion toxin superfamily
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Snaclec family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Snake three-finger toxin family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Venom Kunitz-type family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Class: Venom metalloproteinase (M12B) family
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-score: 1.0000
+
+Training Losses:
+Epoch 1: 2.7579
+Epoch 2: 2.4732
+Epoch 3: 2.0950
+Epoch 4: 1.7799
+Epoch 5: 1.5377
+Epoch 6: 1.2979
+Epoch 7: 1.0586
+Epoch 8: 0.8516
+Epoch 9: 0.6815
+Epoch 10: 0.5410
+Epoch 11: 0.4323
+Epoch 12: 0.3590
+Epoch 13: 0.3036
+Epoch 14: 0.2478
+Epoch 15: 0.2020
+Epoch 16: 0.1677
+Epoch 17: 0.1396
+Epoch 18: 0.1183
+Epoch 19: 0.1021
+Epoch 20: 0.0884
+Epoch 21: 0.0757
+Epoch 22: 0.0635
+Epoch 23: 0.0545
+Epoch 24: 0.0467
+Epoch 25: 0.0404
+Epoch 26: 0.0349
+Epoch 27: 0.0300
+Epoch 28: 0.0262
+
+Validation Losses:
+Epoch 1: 2.4931
+Epoch 2: 2.1380
+Epoch 3: 1.8560
+Epoch 4: 1.6538
+Epoch 5: 1.4470
+Epoch 6: 1.2246
+Epoch 7: 1.0228
+Epoch 8: 0.8606
+Epoch 9: 0.7391
+Epoch 10: 0.6587
+Epoch 11: 0.6177
+Epoch 12: 0.5877
+Epoch 13: 0.5462
+Epoch 14: 0.5047
+Epoch 15: 0.4681
+Epoch 16: 0.4350
+Epoch 17: 0.4109
+Epoch 18: 0.3943
+Epoch 19: 0.3789
+Epoch 20: 0.3599
+Epoch 21: 0.3391
+Epoch 22: 0.3250
+Epoch 23: 0.3197
+Epoch 24: 0.3219
+Epoch 25: 0.3248
+Epoch 26: 0.3254
+Epoch 27: 0.3269
+Epoch 28: 0.3309
